@@ -1,8 +1,8 @@
 kaggle_flight_processed.npz
 
-flightdata.csv
+
 __pycache__/
-best_flight_brain.pth
+
 .venv/
 .env
 wandb/
